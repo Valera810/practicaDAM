@@ -1,4 +1,4 @@
-FuncionParte1{
+FuncionParte1{toquiteo
 	codigo...
 }
 
