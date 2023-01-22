@@ -2,7 +2,7 @@ FuncionParte1{toquiteo
 	codigo...
 }
 
-FuncionParte2{
+FuncionParte2{toquiteo la parte dos, soy val
 	codigo...
 }
 
